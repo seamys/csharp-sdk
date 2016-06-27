@@ -9,3 +9,5 @@ Qiniu.LocalTest
 
 bin
 obj
+/packages/Newtonsoft.Json.8.0.3
+*.user
